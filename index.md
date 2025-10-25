@@ -12,7 +12,7 @@ Broadly, I’m interested in how minds and groups construct **generative stories
 - Pragmatics, explanation, and teaching as story-shaped inference
 - Deception and wishful thinking as strategic audience design
 
-I work across computational modeling (Python/R), large-scale text pipelines (BigQuery), and collaborative, open science. I care about explanations that are both **mechanistic** and **useful**—the kind that make social life a little easier to understand together.
+I work across computational modeling, large-scale text pipelines, and collaborative, open science. I care about explanations that are both **mechanistic** and **useful**, the kind that make social life a little easier to understand together.
 
 
 
