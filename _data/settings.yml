@@ -3,7 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'misc', url: '/miscellaneous'}
 
 #people:
 #- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -13,7 +13,7 @@ menu:
 #courses:
 #- {name: 'Vector Calculus', url: 'vector-calculus'}
 #- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
 #
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
